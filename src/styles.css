@@ -33,7 +33,7 @@
 .desktop-nav a.active { position:relative; } .desktop-nav a.active:after { content:''; position:absolute; bottom:-10px; left:40%; width:5px; height:5px; background:var(--coral); border-radius:50%; }
 .pet-button { border-radius:999px; height:45px; padding:0 23px; font-size:13px; box-shadow:none; font-weight:600; }
 .hero { position:relative; min-height:590px; overflow:hidden; }
-.hero-photo { position:absolute; width:100%; height:100%; object-fit:cover; object-position:center 56%; }
+.hero-photo { position:absolute; width:100%; height:100%; object-fit:cover; object-position:center 18%; }
 .hero:after { content:''; position:absolute; inset:0; background:var(--hero-shade); }
 .hero-content { position:relative; z-index:1; max-width:1240px; margin:auto; padding:88px 40px 75px; }
 .eyebrow { display:flex; align-items:center; gap:8px; font-size:12px; font-weight:600; color:var(--primary); }
